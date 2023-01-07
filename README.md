@@ -1,4 +1,10 @@
-### Hi there 👋
+#### 🌎 Hello, World! I am Ryan, thank you for visiting my github. 
+#### 🙎🏼‍♂️ Full-Stack Web Developer with 10+ years experience in facilities project management in a prior life.
+#### 👨🏼‍💻 Currently working on a MERN stack app that blends my passions for basketball and social media.
+#### 🏀 I am a basketball junkie, guitar player, and lifelong learner.
+#### 🤔 Currently learning Typescript and Next.js.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,git,jquery,mongodb,nodejs,postgres,sass)](https://skillicons.dev)
 
 <!--
 **rfll/rfll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
