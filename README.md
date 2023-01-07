@@ -4,7 +4,7 @@
 #### 🏀 I am a basketball junkie, guitar player, and lifelong learner.
 #### 🤔 Currently learning Typescript and Next.js.
 
-### Languages and Tools
+## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,html,css,gitmongodb,postgres)](https://skillicons.dev)
 
 <!--
