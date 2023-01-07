@@ -6,7 +6,7 @@
 #### 🤔 Currently learning Typescript and Next.js.
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,html,css,gitmongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,postgres,mongodb,html,css,git)](https://skillicons.dev)
 
 <!--
 **rfll/rfll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
