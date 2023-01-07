@@ -1,4 +1,4 @@
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ryanwfortin)
+[![Linkedin]([https://i.stack.imgur.com/gVE0j.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)) LinkedIn](https://www.linkedin.com/in/ryanwfortin)
 ## 🌎 Hello, World!
 #### 👋 I am Ryan, thank you for visiting my profile. 
 #### 🙎🏼‍♂️ Full-Stack Web Developer with 10+ years experience in facilities project management in a former life.
