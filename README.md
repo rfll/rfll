@@ -4,7 +4,8 @@
 #### 🏀 I am a basketball junkie, guitar player, and lifelong learner.
 #### 🤔 Currently learning Typescript and Next.js.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,git,jquery,mongodb,nodejs,postgres,sass)](https://skillicons.dev)
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,html,css,gitmongodb,postgres)](https://skillicons.dev)
 
 <!--
 **rfll/rfll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
