@@ -3,7 +3,7 @@
 
 ## 🌎 Hello, World!
 #### 👋 I am Ryan, thank you for visiting my profile. 
-#### 🙎🏼‍♂️ Full-Stack Web Developer with 10+ years experience in facilities project management in a former life.
+#### 🙎🏼‍♂️ Full-Stack Web Developer with 10+ years experience in facilities project management in a prior life.
 #### 👨🏼‍💻 Currently working on a MERN stack app that blends my passion for basketball and social media.
 #### 🏀 I am a basketball junkie, guitar player, and lifelong learner.
 #### 🤔 Currently learning Typescript and Next.js.
